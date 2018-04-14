@@ -6,6 +6,8 @@ gem 'rake'
 gem 'rubocop'
 gem 'sinatra'
 gem 'capybara'
+gem 'sinatra-flash'
+gem 'bcrypt'
 
 group :test do
   gem 'rspec'
