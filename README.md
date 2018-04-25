@@ -2,7 +2,7 @@
 
 "Body weight management tool. Vegetarian and Vegan-friendly."
 
-App will be re-written in JS, Node.JS, and HTML/CSS.
+App will be re-written in JS, Node.JS, and HTML/CSS. Inial MVP elements are available. 
 
 Unfinished code or other missing elements will be highlighted, and plan will be provided how to finalise the challenge in [ToDo](#todo).
 
