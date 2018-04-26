@@ -6,6 +6,26 @@ App will be re-written in JS, Node.JS, and HTML/CSS. Inial MVP elements are avai
 
 Unfinished code or other missing elements will be highlighted, and plan will be provided how to finalise the challenge in [ToDo](#todo).
 
+## User stories section
+
+* As a user, I want to be able to sign up for JDiet, so that I can access the additional(support tools) services of the site.
+
+* As a user, I want to be able to log into JDiet, so that I can access my profile and track my progress.
+
+* As a user, I want to be able to logout from Jdiet, so I can protect the security of my account.
+
+* As a user, I want to be able to see a original, vegeterian or vegan programs, so that I can choose the right one for myself.
+
+* As a user, I want to be able to amend/mix my daily diet dishes, so that I can have more varied diet options.
+
+* As a user, I want to be able to order food via the app/web app (support tools) , so that the food is delivered to my home and I can save time.
+
+* As a user, I want to be able to see my selected products in the basket, so that I can take relevant actions and do amendments to my order.
+
+<!-- * As a user, I want to be able to approve/deny a hire request, so that I can hire out my space.
+
+* As a user, I want to only be able to select available dates when requesting to hire a space, so that the space is not double booked. -->
+
 ## Getting Started
 
 These instructions will help to follow the steps of the project.
