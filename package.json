@@ -2,7 +2,7 @@
   "name": "jdiet",
   "version": "1.0.0",
   "description": "\"Body weight management tool. Vegetarian and Vegan-friendly.\"",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/VytisVA/Jdiet#readme",
   "dependencies": {
+    "ejs": "^2.5.9",
     "express": "^4.16.3"
   }
 }
