@@ -50,9 +50,6 @@ Run the automated tests for this challenge via RSpec -fd.
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Capybara](https://capybaraworkout.herokuapp.com/)
 * [Sinatra](http://sinatrarb.com/)
-* [Gulp](https://gulpjs.com/)
-* [Grunt](https://gruntjs.com/)
-* [Yeoman](http://yeoman.io/)
 
 ## Authors
 
